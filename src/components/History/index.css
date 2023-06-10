@@ -1,0 +1,43 @@
+.white-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 12px;
+}
+.history-details {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  width: 60%;
+}
+
+.button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+.timeDescription {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 30px;
+}
+.img {
+  margin-right: 30px;
+}
+.description {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.path-description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 20px;
+}
